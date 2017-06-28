@@ -2,5 +2,7 @@ New php file ()
 Hello 
 
 {
-Void Main 
+public Void Main(string args);
+system.out.println("ha------------");
+ 
 }
