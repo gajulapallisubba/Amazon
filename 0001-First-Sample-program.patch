@@ -1,0 +1,26 @@
+From 65bf235f0d083fd99083a25a8752a146307f12cb Mon Sep 17 00:00:00 2001
+From: subbareddy <gajulapalli001@gmail.com>
+Date: Tue, 27 Jun 2017 13:34:11 +0530
+Subject: [PATCH 1/3] First Sample program
+
+---
+ edit | 7 +++++++
+ 1 file changed, 7 insertions(+)
+ create mode 100644 edit
+
+diff --git a/edit b/edit
+new file mode 100644
+index 0000000..16613d1
+--- /dev/null
++++ b/edit
+@@ -0,0 +1,7 @@
++public class sample{
++public static void main{}
++{
++system.out.println("hello world");
++}
++}
++
+-- 
+2.7.4
+
