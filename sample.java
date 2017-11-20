@@ -1,10 +1,6 @@
 public class java{
 public static void main(){
- int a=1;
+ int a=10;
 system.out.println("ha......");
 }
 }
-cmxzm
-sd
-fd
-
