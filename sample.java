@@ -1,7 +1,7 @@
 public class java{
 public static void main(){
-int a=1;
-system.out.println("ha......");
+ int a=10;
 }
 }
 
+this is fetching
